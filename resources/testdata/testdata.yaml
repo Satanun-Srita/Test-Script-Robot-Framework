@@ -1,0 +1,12 @@
+# testcases/LoginTestcases.robot
+email: Ab.stopbus+1@gmail.com
+valid_password: Password123!
+invalid_password: Password456!
+
+# resources/testdata/testdata.yaml
+User_Register_Data:
+  email: "Satanun.test01@gmail.com"
+  firstName: "Satanun"
+  lastName: "Srita"
+  phone: "0966851234"
+  password: "Password12345"
